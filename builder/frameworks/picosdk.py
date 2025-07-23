@@ -91,6 +91,7 @@ env.Append(
         join(FRAMEWORK_DIR, "src", "common", "pico_sync", "include"),
         join(FRAMEWORK_DIR, "src", "common", "pico_time", "include"),
         join(FRAMEWORK_DIR, "src", "common", "pico_util", "include"),
+        join(FRAMEWORK_DIR, "src", "common", "pico_stdio", "include"),
         join(FRAMEWORK_DIR, "src", "common", "pico_stdlib_headers", "include"),
         join(FRAMEWORK_DIR, "src", "common", "hardware_claim", "include"),
 
